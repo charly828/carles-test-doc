@@ -11,3 +11,4 @@ Welcome to myproject's documentation!
    :caption: Contents:
 
    feature-a.rst
+   feature-b.rst
